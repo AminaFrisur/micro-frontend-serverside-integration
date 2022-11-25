@@ -1,0 +1,1 @@
+wasmedge --dir .:. wasmedge_quickjs.wasm ./node_frontend/src/dist/main.mjs
